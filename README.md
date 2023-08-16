@@ -1,1 +1,1 @@
-JavaScript infinite loop checker.
+A Babel plugin for detecting the presence of infinite loop code
