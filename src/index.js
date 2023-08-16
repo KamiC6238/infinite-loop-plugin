@@ -58,7 +58,7 @@ function getPluginWithConfig(configs = {
     return infiniteLoopPlugin
 }
 
-module.exports = {
+export {
     getPluginWithConfig,
     infiniteLoopPlugin
 }
