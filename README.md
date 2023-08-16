@@ -63,6 +63,6 @@ while (1) {
         // the RangeError msg will be replaced to the customized value
         babel_global.infiniteLoopError = new RangeError('custom infinite loop error message');
         throw babel_global.infiniteLoopError;
-  }
+    }
 }
 ```
