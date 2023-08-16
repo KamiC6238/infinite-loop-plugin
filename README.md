@@ -66,3 +66,6 @@ while (1) {
     }
 }
 ```
+
+## Notice
+The plugin only support `ForStatement` & `WhileStatement` & `DoWhileStatement`
