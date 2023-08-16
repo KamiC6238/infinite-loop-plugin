@@ -6,9 +6,6 @@ dependencies:
     version: 7.22.10
 
 devDependencies:
-  '@types/node':
-    specifier: ^20.5.0
-    version: 20.5.0
   parcel:
     specifier: ^2.9.3
     version: 2.9.3
@@ -1273,10 +1270,6 @@ packages:
   /@trysound/sax@0.2.0:
     resolution: {integrity: sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==}
     engines: {node: '>=10.13.0'}
-    dev: true
-
-  /@types/node@20.5.0:
-    resolution: {integrity: sha512-Mgq7eCtoTjT89FqNoTzzXg2XvCi5VMhRV6+I2aYanc6kQCBImeNaAYRs/DyoVqk1YEUJK5gN9VO7HRIdz4Wo3Q==}
     dev: true
 
   /abortcontroller-polyfill@1.7.5:
