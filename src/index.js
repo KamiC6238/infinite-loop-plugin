@@ -1,4 +1,4 @@
-const babel = require('@babel/core');
+import * as babel from '@babel/core';
 
 let maxLoopTimes = 10001;
 let errMsg = 'An infinite loop was detected in the code';
