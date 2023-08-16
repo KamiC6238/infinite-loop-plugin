@@ -6,7 +6,7 @@
     "url": "https://github.com/KamiC6238/infinite-loop-plugin"
   },
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "source": "src/index.js",
   "module": "dist/index.js",
